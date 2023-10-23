@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Gyeonggi Title';
@@ -12,7 +12,7 @@ font-family: 'Gyeonggi Title';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GyeonggiTitle/GyeonggiTitle.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/GyeonggiTitle/GyeonggiTitle.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -61,4 +61,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GyeonggiTitle/GyeonggiTitle-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GyeonggiTitle/GyeonggiTitle-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+경기도 서체는 누구나 무료로 다운로드 받아 자유롭게 사용할 수 있습니다. 
+영상, 인쇄, 웹 등 다양한 매체에 자유롭게 사용이 가능하며, 특별한 허가 절차 없이 사용할 수 있습니다. 
+다만, 경기도 서체를 유료로 양도하거나 판매하는 등 상업적 행위는 금지하고 있습니다.
 ```
